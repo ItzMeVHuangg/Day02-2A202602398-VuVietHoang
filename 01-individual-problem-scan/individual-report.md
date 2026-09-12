@@ -6,13 +6,7 @@
 
 - Họ và tên: Vũ Việt Hoàng
 - Mã học viên: 2A202602398
-- Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...): Data/AI Engineer full-time tại Vin Group
-- Công việc hằng tuần (3-5 gạch đầu dòng để soi problem):
-  - Chuẩn bị, làm sạch và kiểm tra chất lượng dataset (annotation, dedup, format) trước khi train model
-  - Chạy và theo dõi các experiment training, so sánh metric giữa các lần chạy
-  - Debug pipeline khi lỗi (data loader, config sai, GPU OOM), đọc log dài để tìm nguyên nhân
-  - Viết report/tổng hợp kết quả training và trạng thái dataset để báo cáo cho PM/team lead
-  - Trả lời câu hỏi từ đồng nghiệp (QA/PM) về dataset version, lý do model dự đoán sai ở case cụ thể
+- Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...): Sinh viên năm cuối trường ĐH CNTT
 
 ---
 
